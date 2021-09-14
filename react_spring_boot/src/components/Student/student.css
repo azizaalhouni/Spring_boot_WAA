@@ -1,0 +1,18 @@
+
+.Student {
+  width: 20%;
+  margin: 20px 20px 20px 20px;
+  background-color: lightblue;
+  padding-left: 50px;
+  float: left;
+  content: center;
+}
+
+.update {
+  display: block;
+}
+
+.Student:hover,
+.Student:active {
+  background-color: #f5c0d6;
+}
